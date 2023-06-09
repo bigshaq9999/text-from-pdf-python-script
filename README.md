@@ -1,1 +1,1 @@
-echo # text-from-pdf-python-script
+# text-from-pdf-python-script
